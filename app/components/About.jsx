@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return(
     <di>
-      <h1 className="text-center">Acerca de</h1>
+      <h1 className="text-center page-title">Acerca de</h1>
       <p>Esta es una aplicación del tiempo construida con React.
          Esto desarollandola como ejemplos de un curso de React.</p>
        <p>Algunas de las herramientas utilizadas son:</p>
